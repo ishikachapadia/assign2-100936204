@@ -7,3 +7,22 @@ Author URI: http://example.com
 Template: twentytwentyfour
 Version: 1.0.0
 */
+
+body {
+    background-color: #ffffff; 
+    color: #333333; 
+}
+
+a {
+    color: #0073aa; 
+}
+
+a:hover {
+    color: #005177; 
+}
+
+header {
+    background-color: #f5f5f5; 
+}
+
+
